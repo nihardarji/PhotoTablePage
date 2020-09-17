@@ -1,0 +1,3 @@
+export const GET_IMAGE_DATA = 'GET_IMAGE_DATA'
+export const GET_IMAGE_ERROR = 'GET_IMAGE_ERROR'
+export const SHOW_SEARCH_MODAL = 'SHOW_SEARCH_MODAL'
